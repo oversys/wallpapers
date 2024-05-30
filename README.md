@@ -2,3 +2,4 @@
 * https://github.com/dharmx/walls
 * https://github.com/D3Ext/aesthetic-wallpapers
 * https://gitlab.com/Oglo12/wallpapers
+* https://github.com/JaKooLit/Wallpaper-Bank
