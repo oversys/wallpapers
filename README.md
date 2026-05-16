@@ -5,3 +5,5 @@
 * https://github.com/JaKooLit/Wallpaper-Bank
 * https://gitlab.com/dwt1/wallpapers
 * [WNDR Group](https://x.com/WNDRGroup)
+* https://github.com/NoiSek/Aether
+
